@@ -40,3 +40,7 @@ $ make clean
     \part
       <<Solution to part (b)>>
   ```
+- Right arrow (eg. A -> B)
+```
+A \arrow ~B
+```
