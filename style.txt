@@ -41,3 +41,4 @@
 
 \setkomafont{section}{\colorboxedsec{section}}
 \setkomafont{subsection}{\colorboxedsec{subsection}}
+\usepackage{amsmath}
